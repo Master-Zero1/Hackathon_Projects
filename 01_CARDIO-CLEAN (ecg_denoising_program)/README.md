@@ -49,6 +49,16 @@ CardioClean is a high-precision ECG denoising pipeline designed to address the c
     <td>Maintains clinical integrity of R-peaks</td>
   </tr>
 </table>
+<h3 align="center">Visual Validation: Raw vs. Denoised</h3>
+<p align="center">
+  <img src="01_CARDIO-CLEAN (ecg_denoising_program)/Screenshot 2026-04-20 024443.png" width="90%" alt="ECG Comparison Plot">
+</p>
+<p align="center">
+  <i>Fig 1. CardioClean successfully stabilizes the baseline and removes high-frequency artifacts while preserving the QRS complex.</i>
+<h3 align="center">Metrics</h3>
+<p align="center">
+  <img src="01_CARDIO-CLEAN (ecg_denoising_program)/Screenshot 2026-04-20 024457.png" width="90%" alt="Metrics">
+</p>
 
 ## The Pipeline
 1.  **High-Pass (0.5Hz):** Eliminates respiratory baseline wander.
