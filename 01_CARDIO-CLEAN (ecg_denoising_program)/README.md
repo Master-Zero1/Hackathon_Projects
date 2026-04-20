@@ -21,7 +21,7 @@ CardioClean is a high-precision ECG denoising pipeline designed to address the c
 * **Hardware Agnostic:** Optimized to run on low-power edge devices (Raspberry Pi/Mobile/Arduino devices).
 * **Clinically Validated:** Benchmark tested using the **MIT-BIH Arrhythmia Database**.
 
-## Performance Metrics (Record 100)
+## Performance Metrics (Record 100_ekg.csv)
 <table align="center">
   <tr>
     <th>Metric</th>
