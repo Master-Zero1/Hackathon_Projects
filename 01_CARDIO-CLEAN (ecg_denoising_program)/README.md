@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.8+-blue.svg" alt="Python Version">
-  <img src="https://img.shields.io/badge/Status-Hackathon--Winner-brightgreen.svg" alt="Status">
+  <img src="https://img.shields.io/badge/Status-Hackathon.svg" alt="Status">
   <img src="https://img.shields.io/badge/Medical-Signal--Processing-red.svg" alt="Medical">
   <img src="https://img.shields.io/badge/UN--SDG-Goal--3-blue" alt="SDG">
 
