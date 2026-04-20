@@ -1,0 +1,25 @@
+#cardio_clean (First prototype): (Hackathon Project - 01) Made by Master_Zero1 (solo)
+
+ecg dataset - https://www.kaggle.com/datasets/mondejar/mitbih-database/data
+
+Libraries:
+Matplotlib: https://matplotlib.org/stable/tutorials/pyplot.html
+Numpy: https://numpy.org/doc/2.4/user/absolute_beginners.html
+scipy sinals - https://docs.scipy.org/doc/scipy/reference/signal.html
+Tkinter - https://docs.python.org/3/library/tk.html
+
+filters
+1.High pass filters and low pass filters.
+  a. butterworth connection: https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.butter.html#scipy.signal.butter
+2. IIR notch filters 
+  a. https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.iirnotch.html#scipy.signal.iirnotch
+3. sagvol filters
+  a.https://docs.scipy.org/doc/scipy/reference/generated/scipy.signal.savgol_filter.html#scipy.signal.savgol_filter
+
+
+ECG - quality reports (resources)
+1. SNR - https://en.wikipedia.org/wiki/Signal-to-noise_ratio
+2. RMSE - https://en.wikipedia.org/wiki/Root_mean_square_deviation
+3. Heart Rate - https://litfl.com/ecg-rate-interpretation/
+                https://emedicine.medscape.com/article/2172196-overview?form=fpf
+4. Peak Amplitude Preservation - https://pmc.ncbi.nlm.nih.gov/articles/PMC7922324/
