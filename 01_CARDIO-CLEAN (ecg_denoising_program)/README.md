@@ -72,11 +72,3 @@ By providing this tool as an open-source, license-free resource, CardioClean sup
 ## Tech Stack
 - **Language:** Python 3.x
 - **Libraries:** NumPy, SciPy, Matplotlib, Tkinter
-
-## Installation & Usage
-```bash
-# Clone the repository
-git clone [https://github.com/yourusername/CardioClean.git](https://github.com/yourusername/CardioClean.git)
-
-# Install dependencies
-pip install numpy scipy matplotlib
