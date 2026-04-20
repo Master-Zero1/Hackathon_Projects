@@ -11,6 +11,8 @@ Tk().withdraw()
 file_path = filedialog.askopenfilename()
 data = np.loadtxt(file_path, skiprows=1, delimiter=',', usecols=1)
 
+#You can find the ecg_file that i used in the Resources.txt and download the 100_ekg.csv file and then load it
+
 
 #plotting the ecg noised signal
 plt.figure(figsize=(12, 4))
