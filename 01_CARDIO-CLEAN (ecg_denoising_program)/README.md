@@ -72,3 +72,5 @@ By providing this tool as an open-source, license-free resource, CardioClean sup
 ## Tech Stack
 - **Language:** Python 3.x
 - **Libraries:** NumPy, SciPy, Matplotlib, Tkinter
+
+- Time taken to make this project - 8 days
